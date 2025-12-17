@@ -1,0 +1,12 @@
+nombre = "Yhonatan"
+edad = 22
+peso = 75.5
+mayor = True
+altura = 1.75
+profesion = "Ingeniero de Sistemas"
+pais = "Bolivia"
+ciudad = "La Paz"
+estudiante = False
+hobby = "Hackear máquinas controladas"
+nivel_ingles = "Intermedio"
+programa_favorito = "Python"
